@@ -4,4 +4,4 @@ nrm ls
 #安装淘宝镜像
 sudo npm install nrm -g
 #使用淘宝镜像
-rm use taobao
+nrm use taobao
